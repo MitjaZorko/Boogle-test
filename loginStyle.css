@@ -1,0 +1,115 @@
+.one {
+    color: #1E90FF;
+}
+
+.two {
+    color: red;
+}
+
+.three {
+    color: gold;
+}
+
+.four {
+    color: #32CD32;
+}
+
+.tekst {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.outer {
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.second {
+    font-size: 35px;
+    font-family: Verdana, sans-serif;
+    color: #2F4F4F;
+}
+
+.third {
+    font-size: 15px;
+    font-family: Verdana, sans-serif;
+    color: #696969;
+}
+
+.inner {
+    text-align: center;
+    background-color: #E6E6FA;
+    border-style: hidden;
+    width: 70%;
+    position: relative;
+    left: 15%;
+    padding-top: 20%; /* potrebno, da nastane kvadrat -> sirina ekvivalentna visini */
+}
+
+.innerImg {
+    position: relative;
+    border-radius: 100%;
+    width: 100px;
+    top: -70px;
+}
+
+input {
+    position: relative;
+    width: 80%;
+    height: 40px;
+    color: #D3D3D3;
+    top: -50px;
+}
+
+button {
+    position: relative;
+    width: 81%;
+    border-radius: 2px;
+    background-color: #1E90FF;
+    color: white;
+    font-weight: bold;
+    border: none;
+    height: 40px;
+    top: -42px;
+}
+
+.fourth {
+    color: royalblue;
+    position: relative;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    top: -50px;
+    left: 108px;
+}
+
+.fifth {
+    color: royalblue;
+    font-family: Verdana, sans-serif;
+    font-size: 13px:
+}
+
+.sixth {
+    color: #696969;
+    font-family: Verdana, sans-serif;
+    font-size: 13px;
+}
+
+.footer {
+    display: inline-block;
+    width: 45%;
+}
+
+.pic {
+    display: inline-block;
+    width: 100%;
+    /*padding-top: 2%; /* potrebno, da nastane kvadrat -> sirina ekvivalentna visini */
+}
+
+a {
+    text-decoration: none;
+}
+
+.tekst:hover {
+    font-size: 40px;
+}
